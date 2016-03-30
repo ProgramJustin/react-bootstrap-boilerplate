@@ -44,7 +44,8 @@ React-Bootstrap manages your bootstrap components as react components. It also a
 - [**React-bootstrap DOCS**](https://react-bootstrap.github.io/)
 - [**Bootstrap**](http://getbootstrap.com/)
 - [**Make your own bootstrap css**](http://getbootstrap.com/customize/)
-- 
+- [**Medium**](https://medium.com/@ev1stensberg/react-bootstrap-unifying-the-two-hottest-front-end-frameworks-7008636ed56f#.t2zxusu5x)
+
 ##Setting up React-Bootstrap on your own
 
 In order for react-bootstrap to function, you need the library installed with the usual ´npm install --save <package>´.
