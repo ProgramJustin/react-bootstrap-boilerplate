@@ -1,6 +1,6 @@
 # react-bootstrap-boilerplate
 
-Kickstart your development with this basic boilerplate containing a specificed webpack with css-loader, jsx-transformer, babel, react and bootstrap. 
+Explore Bootstrap with React with this basic boilerplate. The boilerplate aims to try to introduce you to bootstrap components as react components.
 
 Made with :blue_heart: by [Even Stensberg](https://twitter.com/ev1stensberg) :ocean:
 ##Motivation
@@ -39,7 +39,7 @@ It is really hard to start off with react, and this boilerplate aims to get you 
 
 ##React-Bootstrap
 
-React-Bootstrap manages your bootstrap components as react components. It also allows you to drop the jQuery so you don't have to require jQuery in the global namespace. It also allows you to implement your design more as react components. Note that the bootstrap.min.css is custom-made for my project. If you wish to make your own css file that makes you have a strict set of css from bootstrap, check out the links at the end of this paragraph.To read more about Bootstrap & React: 
+React-Bootstrap manages your bootstrap components as react components. It also allows you to drop the jQuery so you don't have to require jQuery in the global namespace. It also allows you to implement your design more as react components. Note that the bootstrap.min.css is custom-made for my project. If you wish to make your own css file that makes you have a strict set of css from bootstrap, check out the links at the end of this paragraph. To read more about Bootstrap & React: 
 
 - [**React-bootstrap DOCS**](https://react-bootstrap.github.io/)
 - [**Bootstrap**](http://getbootstrap.com/)
